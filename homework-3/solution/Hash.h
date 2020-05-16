@@ -3,7 +3,7 @@
 
 class Hash
 {
-public:
+private:
 	struct Person
 	{
 		Person(const char* name);
